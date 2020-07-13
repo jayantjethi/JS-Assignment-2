@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contents Of Current Window</title>
+</head>
+<body>
+    <h1>Hello Everyone</h1>
+    <h2>Learning Javascript from LetsUpgrade</h2>   
+<button type="button" onclick="window.print()">Print Page
+</button>
+</body>
+</html>
